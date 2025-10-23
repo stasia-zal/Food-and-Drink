@@ -1,0 +1,36 @@
+<food>
+    <name letters="cyrylic", language='English'>Lemon<name>
+    <taste vibrant=True intensivity="very" >bitter</taste>
+    <color RGB=False visibleWithHumanEye=true>yellow<color>
+    <price numbers="arabic" currency="PLN">4<price>
+</food>
+<food>
+    <name letters="cyrylic", language='English'>Strawberry<name>
+    <taste  vibrant=True intensivity="so-so">sweet</taste>
+    <color RGB=true visibleWithHumanEye=true>red<color>
+    <price numbers="arabic" currency="PLN">8<price>
+</food>
+<food>
+    <name letters="cyrylic", language='English'>Chocolate<name>
+    <taste  vibrant=True intensivity="very">bittsweeter</taste>
+    <color RGB=False visibleWithHumanEye=true>brown<color>
+    <price numbers="arabic" currency="PLN">12<price>
+</food>
+<food>
+    <name letters="cyrylic", language='English'>caramel<name>
+    <taste vibrant=True intensivity="very">sweet</taste>
+    <color RGB=False visibleWithHumanEye=true>orange<color>
+    <price numbers="arabic" currency="PLN">20<price>
+</food>
+<food>
+    <name letters="cyrylic", language='English'>Steak<name>
+    <taste vibrant=True intensivity="not much">salty</taste>
+    <color RGB=true visibleWithHumanEye=true>red<color>
+    <price  numbers="arabic" currency="UAH">200<price>
+</food>
+<food>
+    <name letters="cyrylic", language='English'>Water<name>
+    <taste  vibrant=false intensivity="no">neutral</taste>
+    <color RGB=False visibleWithHumanEye=false>clear<color>
+    <price  numbers="arabic" currency="USD">0.5<price>
+</food>
