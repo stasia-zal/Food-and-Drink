@@ -1,36 +1,39 @@
-<food>
-    <name>Lemon<name>
-    <taste>bitter</taste>
-    <color>yellow<color>
-    <price>4<price>
-</food>
-<food>
-    <name>Strawberry<name>
-    <taste>sweet</taste>
-    <color>red<color>
-    <price>8<price>
-</food>
-<food>
-    <name>Chocolate<name>
-    <taste>bittsweeter</taste>
-    <color>brown<color>
-    <price>12<price>
-</food>
-<food>
-    <name>caramel<name>
-    <taste>sweet</taste>
-    <color>orange<color>
-    <price>20<price>
-</food>
-<food>
-    <name>Steak<name>
-    <taste>salty</taste>
-    <color>red<color>
-    <price>200<price>
-</food>
-<food>
-    <name>Water<name>
-    <taste>neutral</taste>
-    <color>clear<color>
-    <price>0.5<price>
-</food>
+<?xml version="1.0" encoding="UTF-8"?>
+<task2>
+    <food>
+        <name>Lemon</name>
+        <taste>bitter</taste>
+        <color>yellow</color>
+        <price>4</price>
+    </food>
+    <food>
+        <name>Strawberry</name>
+        <taste>sweet</taste>
+        <color>red</color>
+        <price>8</price>
+    </food>
+    <food>
+        <name>Chocolate</name>
+        <taste>bittersweet</taste>
+        <color>brown</color>
+        <price>12</price>
+    </food>
+    <food>
+        <name>Caramel</name>
+        <taste>sweet</taste>
+        <color>orange</color>
+        <price>20</price>
+    </food>
+    <food>
+        <name>Steak</name>
+        <taste>salty</taste>
+        <color>red</color>
+        <price>200</price>
+    </food>
+    <food>
+        <name>Water</name>
+        <taste>neutral</taste>
+        <color>clear</color>
+        <price>0.5</price>
+    </food>
+</task2>
